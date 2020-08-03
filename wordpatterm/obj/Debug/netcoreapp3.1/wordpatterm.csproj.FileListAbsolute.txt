@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\bin\Debug\netcoreapp3.1\wordpatterm.exe
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\bin\Debug\netcoreapp3.1\wordpatterm.deps.json
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\bin\Debug\netcoreapp3.1\wordpatterm.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\bin\Debug\netcoreapp3.1\wordpatterm.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\bin\Debug\netcoreapp3.1\wordpatterm.dll
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\bin\Debug\netcoreapp3.1\wordpatterm.pdb
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.dll
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.pdb
+C:\Users\monisha.khapali\source\repos\wordpatterm\wordpatterm\obj\Debug\netcoreapp3.1\wordpatterm.genruntimeconfig.cache
